@@ -18,16 +18,6 @@ def selection(num)
   end
 end
 
- case num 
-  when 1
-    "YUM YUM MUNCH MUNCH MUNCH"
-  when 2
-    "HAM HAM HAM IN MY TUMMY"
-  end 
-
-end
-
-def runner
 
 
 
