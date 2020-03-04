@@ -25,7 +25,7 @@ case num
     "HAM HAM HAM IN MY TUMMY"
   end 
 
-end
+
 
 
 def runner
