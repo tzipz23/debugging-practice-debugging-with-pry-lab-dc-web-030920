@@ -16,8 +16,8 @@ def selection(num)
   elsif num = 2
      "HAM HAM HAM IN MY TUMMY"
   end
-  selection(2)
 end
+selection(2)
 
 def runner
   prompt_user
